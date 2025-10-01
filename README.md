@@ -8,7 +8,7 @@ Here you’ll find projects, coursework, and dashboards that highlight my analyt
 ### 🛠️ Skills & Tools  
 - 📈 Analytics & BI: SQL, Power BI, Excel for reporting and dashboards  
 - 🗄️ Data Fundamentals: Relational databases, schema design, KPI tracking  
-- 💼 Strong business acumen: KPIs, financial metrics, and awareness of evolving industry trends  
+- 💼 Strong business knowledge: KPIs, financial metrics, and awareness of evolving industry trends  
 - 🤝 Collaboration & Problem-Solving: Effective communicator, adaptable team player with attention to detail  
 
 > 🚧 I’m actively building out this portfolio — more data analytics projects coming soon!
