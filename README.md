@@ -2,7 +2,6 @@
 
 - 💼 Student Innovation Analyst at the Fisher College of Business – Center for Innovation Strategies  
 - 🎓 Graduating with BSBA in Information Systems from The Ohio State University in December 2025
-- 📊 Actively seeking Data Analyst roles starting January 2026
 
 Here you’ll find projects, coursework, and dashboards that highlight my analytics skills and business insight.
 
