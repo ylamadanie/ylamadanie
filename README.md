@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I’m Yusef Lamadanie  
 
-<!--
-**ylamadanie/ylamadanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Student Innovation Analyst at the Fisher College of Business – Center for Innovation Strategies  
+- 🎓 Graduating with BSBA in Information Systems from The Ohio State University in December 2025
+- 📊 Actively seeking Data Analyst roles starting January 2026
 
-Here are some ideas to get you started:
+Here you’ll find projects, coursework, and dashboards that highlight my analytics skills and business insight.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools  
+- 📈 Analytics & BI: SQL, Power BI, Excel for reporting and dashboards  
+- 🗄️ Data Fundamentals: Relational databases, schema design, KPI tracking  
+- 💼 Strong business acumen: KPIs, financial metrics, and awareness of evolving industry trends  
+- 🤝 Collaboration & Problem-Solving: Effective communicator, adaptable team player with attention to detail  
+
+### 👋🏻 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusef-lamadanie/)  
+[![Email](https://img.shields.io/badge/Email-lamadanie@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lamadanie@hotmail.com)  
