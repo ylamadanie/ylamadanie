@@ -3,13 +3,7 @@
 - 💼 Student Innovation Analyst at the Fisher College of Business – Center for Innovation Strategies  
 - 🎓 Graduating with BSBA in Information Systems from The Ohio State University in December 2025
 
-Here you’ll find projects, coursework, and dashboards that highlight my analytics skills and business insight.
-
-### 🛠️ Skills & Tools  
-- 📈 Analytics & BI: SQL, Power BI, Excel for reporting and dashboards  
-- 🗄️ Data Fundamentals: Relational databases, schema design, KPI tracking  
-- 💼 Strong business knowledge: KPIs, financial metrics, and awareness of evolving industry trends  
-- 🤝 Collaboration & Problem-Solving: Effective communicator, adaptable team player with attention to detail  
+Here you’ll find projects, coursework, and dashboards that highlight my analytics skills and business insight. 
 
 > 🚧 I’m actively building out this portfolio — more data analytics projects coming soon!
 
