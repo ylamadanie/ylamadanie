@@ -5,6 +5,7 @@
 - 📊 Actively seeking Data Analyst roles starting January 2026
 
 Here you’ll find projects, coursework, and dashboards that highlight my analytics skills and business insight.
+> 🚧 I’m actively building out this portfolio — more data analytics projects coming soon!
 
 ### 🛠️ Skills & Tools  
 - 📈 Analytics & BI: SQL, Power BI, Excel for reporting and dashboards  
