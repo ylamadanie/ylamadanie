@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Yusef Lamadanie  
 
-Here you’ll find projects, coursework, and dashboards that highlight my analytics skills and business insight. 
+Here you’ll find projects and coursework that highlight my technical skills and business insight. 
 
-> 🚧 I’m actively building out this portfolio, more data analytics projects coming soon!
+> 🚧 I’m actively building out this portfolio, more projects coming soon!
 
 ### 👋🏻 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusef-lamadanie/)  
